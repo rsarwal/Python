@@ -19,7 +19,7 @@ Below, you’ll find links to two featured projects that demonstrate my technica
 
 ## Contact Me
 - **GitHub**: [rsarwal](https://github.com/rsarwal) 
-- **LinkedIn**: [Raveena Sarwal](Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/) 
+- **LinkedIn**: [Raveena Sarwal](https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/) 
 
 
 
