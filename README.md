@@ -18,7 +18,7 @@ Below, you’ll find links to two featured projects that demonstrate my technica
    Identify customer churn patterns in telecom data and build predictive models for retention strategies.
 
 ## Contact Me
-- **GitHub**: [rsarwal](https://github.com/rsarwal))  
+- **GitHub**: [rsarwal](https://github.com/rsarwal) 
 - **LinkedIn**: [Raveena Sarwal](Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/) 
 
 
