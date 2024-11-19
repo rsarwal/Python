@@ -11,10 +11,10 @@ Below, you’ll find links to two featured projects that demonstrate my technica
 - **Problem-Solving**: Applying analytical thinking to address real-world challenges.
 
 ## Projects
-1. [Keyword Analysis](https://github.com/rsarwal/Python/tree/906c3d23d2da1dd70b69f6e22d37455407e8e4bc/KeywordAnalysis)  
+1. [Keyword Analysis](https://github.com/rsarwal/Python/tree/main/KeywordAnalysis)  
    Analyze and visualize keyword performance for SEO optimization and marketing campaigns.
 
-2. [Telecom Churn Analysis](https://github.com/rsarwal/Python/tree/906c3d23d2da1dd70b69f6e22d37455407e8e4bc/Telecom_Churn_Analysis)  
+2. [Telecom Churn Analysis](https://github.com/rsarwal/Python/tree/main/Telecom_Churn_Analysis)  
    Identify customer churn patterns in telecom data and build predictive models for retention strategies.
 
 ## Contact Me
