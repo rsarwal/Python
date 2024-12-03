@@ -22,7 +22,9 @@ Below, you’ll find links to two featured projects that demonstrate my technica
    with the final output visualized using a PowerBI dashboard.
    
 5. [Delhi Air Quality Index](https://github.com/rsarwal/Python/tree/main/Delhi_AQI)
-
+   This project aims to analyze and visualize the Air Quality Index (AQI) for different locations across Delhi over a period 
+   of 7 years, using data from CPCB's public data repository.
+   
 ## Contact Me
 - **GitHub**: [rsarwal](https://github.com/rsarwal) 
 - **LinkedIn**: [Raveena Sarwal](https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/) 
