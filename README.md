@@ -18,8 +18,10 @@ Below, you’ll find links to two featured projects that demonstrate my technica
    Identify customer churn patterns in telecom data and build predictive models for retention strategies.
 
 3. [Vocational Rehabilitation Consumers'- DDS Analysis](https://github.com/rsarwal/Python/tree/main/DDS_Analysis)
-
-4. [Delhi Air Quality Index](https://github.com/rsarwal/Python/tree/main/Delhi_AQI)
+   The analysis involves handling and processing consumer data, identifying trends, and generating insights using Python, 
+   with the final output visualized using a PowerBI dashboard.
+   
+5. [Delhi Air Quality Index](https://github.com/rsarwal/Python/tree/main/Delhi_AQI)
 
 ## Contact Me
 - **GitHub**: [rsarwal](https://github.com/rsarwal) 
