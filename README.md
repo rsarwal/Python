@@ -19,7 +19,7 @@ Below, you’ll find links to two featured projects that demonstrate my technica
 
 3. DDS Analysis
 
-4. Delhi Air Quality Index
+4. [Delhi Air Quality Index](https://github.com/rsarwal/Python/tree/main/Delhi_AQI)
 
 ## Contact Me
 - **GitHub**: [rsarwal](https://github.com/rsarwal) 
