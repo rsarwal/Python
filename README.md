@@ -17,7 +17,7 @@ Below, you’ll find links to two featured projects that demonstrate my technica
 2. [Telecom Churn Analysis](https://github.com/rsarwal/Python/tree/main/Telecom_Churn_Analysis)  
    Identify customer churn patterns in telecom data and build predictive models for retention strategies.
 
-3. DDS Analysis
+3. [Vocational Rehabilitation Consumers'- DDS Analysis](https://github.com/rsarwal/Python/tree/main/DDS_Analysis)
 
 4. [Delhi Air Quality Index](https://github.com/rsarwal/Python/tree/main/Delhi_AQI)
 
