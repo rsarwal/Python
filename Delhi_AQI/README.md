@@ -24,11 +24,18 @@ The analysis is performed using Python and involves data preprocessing, explorat
    - Outliers are detected and handled to ensure accurate analysis.
 
 3. **Exploratory Data Analysis (EDA)**:
-   - Key statistical metrics such as the mean, median, and standard deviation are calculated to understand the air quality trends.
-   - Visualizations are created to observe the distribution of pollutants, seasonal trends, and comparisons across different areas.
+   - Key statistical metrics such as the mean, median, and standard deviation are calculated to understand the air quality         trends.
+   - Explanation of Steps Dropping Columns:
+   -    Removing columns with no useful data avoids unnecessary computation and clutter.
+   -    Imputation with Median: Median is robust to outliers, making it ideal for filling missing values in environmental             data.
+   -    Datetime Conversion: Necessary for time-series analysis and visualization.
+     
+   - Visualizations are created to observe the distribution of pollutants, seasonal trends, and comparisons across different       areas.
 
 4. **Analysis**:
    - AQI trends over time are analyzed to identify peak pollution periods.
+   - AQI Calculation:
+The AQI for each pollutant (PM2.5 and PM10) is calculated using the given breakpoints. These breakpoints help categorize the air quality from "Good" to "Hazardous".
    - The relationship between various pollutants (PM2.5, PM10, NO2, etc.) and AQI is explored.
 
 5. **Visualization**:
@@ -39,9 +46,12 @@ The analysis is performed using Python and involves data preprocessing, explorat
 
 ## Key Insights
 
-- **High Pollution Areas**: Certain locations in Delhi consistently report higher AQI levels, often exceeding the safe limit.
-- **Pollution Peaks**: The AQI levels are highest during the winter months, particularly due to factors like crop burning in nearby areas and lower wind speeds.
-- **Pollutants Correlation**: PM2.5 and PM10 levels are strongly correlated with the AQI, indicating their significant contribution to air quality deterioration.
+- **Pollution Peaks & Seasonal Trends**: The AQI levels are highest during the winter months, particularly due to factors like crop burning in nearby areas and lower wind speeds. Higher AQI values for both PM2.5 and PM10 are observed during the winter months (Nov-Feb), likely due to stubble burning and other seasonal factors in Delhi.
+- **Pollutants Correlation**: PM2.5 and PM10 levels are strongly correlated with the AQI, indicating their significant contribution to air quality deterioration. We found that PM2.5 and PM10 show strong positive correlations with several other pollutants, particularly NOx and SO2, suggesting that industrial emissions contribute significantly to air quality deterioration.
+-**Trend Analysis**: AQI for both PM2.5 and PM10 showed significant fluctuations over the years, with PM2.5 often being the more dominant pollutant in terms of AQI levels.
+- **Outliers**: A few significant outliers were detected, which can be attributed to unusual events such as heavy pollution episodes.
+
+**Conclusion**: Air quality in Delhi remains a major concern, particularly in winter, and further measures to reduce pollutants like PM2.5 and NOx are necessary.
 
 ## Visualizations
 
