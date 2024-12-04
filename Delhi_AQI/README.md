@@ -57,6 +57,7 @@ The project includes several key visualizations to highlight the findings:
 
 
 - **Pollutant Correlation**: Heatmap visualizing the relationships between different pollutants (PM2.5, PM10, NO2, etc.) and AQI.
+![image](https://github.com/user-attachments/assets/e1082d66-fed9-4f06-8999-9c6d23c545b3)
 
 
 ---
