@@ -50,6 +50,8 @@ The analysis is performed using Python and involves data preprocessing, explorat
 The project includes several key visualizations to highlight the findings:
 
 - **AQI Distribution Over Time**: Line plot showing the trend of AQI over the months.
+  ![image](https://github.com/user-attachments/assets/2aaea991-3ff0-4132-9dae-69b9d4886035)
+
 - **Pollutant Correlation**: Heatmap visualizing the relationships between different pollutants (PM2.5, PM10, NO2, etc.) and AQI.
 
 
