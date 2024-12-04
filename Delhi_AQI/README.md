@@ -48,7 +48,7 @@ The AQI for each pollutant (PM2.5 and PM10) is calculated using the given breakp
 
 - **Pollution Peaks & Seasonal Trends**: The AQI levels are highest during the winter months, particularly due to factors like crop burning in nearby areas and lower wind speeds. Higher AQI values for both PM2.5 and PM10 are observed during the winter months (Nov-Feb), likely due to stubble burning and other seasonal factors in Delhi.
 - **Pollutants Correlation**: PM2.5 and PM10 levels are strongly correlated with the AQI, indicating their significant contribution to air quality deterioration. We found that PM2.5 and PM10 show strong positive correlations with several other pollutants, particularly NOx and SO2, suggesting that industrial emissions contribute significantly to air quality deterioration.
--**Trend Analysis**: AQI for both PM2.5 and PM10 showed significant fluctuations over the years, with PM2.5 often being the more dominant pollutant in terms of AQI levels.
+- **Trend Analysis**: AQI for both PM2.5 and PM10 showed significant fluctuations over the years, with PM2.5 often being the more dominant pollutant in terms of AQI levels.
 - **Outliers**: A few significant outliers were detected, which can be attributed to unusual events such as heavy pollution episodes.
 
 **Conclusion**: Air quality in Delhi remains a major concern, particularly in winter, and further measures to reduce pollutants like PM2.5 and NOx are necessary.
