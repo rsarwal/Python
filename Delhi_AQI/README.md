@@ -30,13 +30,11 @@ The analysis is performed using Python and involves data preprocessing, explorat
 4. **Analysis**:
    - AQI trends over time are analyzed to identify peak pollution periods.
    - The relationship between various pollutants (PM2.5, PM10, NO2, etc.) and AQI is explored.
-   - Pollution levels across different locations in Delhi are compared to identify the most affected areas.
 
 5. **Visualization**:
    - Various plots such as line plots, bar charts, and heatmaps are used to visualize the AQI trends over time and across different regions.
    - The analysis includes visualizations like:
      - AQI distribution over time
-     - Comparison of AQI levels between locations
      - Correlation heatmap of different pollutants
 
 ## Key Insights
