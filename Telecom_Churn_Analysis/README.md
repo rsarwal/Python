@@ -78,7 +78,7 @@ The dataset contains customer information including demographics, services used,
 3. Open and run the Jupyter Notebook: `Telecom_Churn_Analysis.ipynb`
 
 ## Contact Me
-Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/
+Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal/
 
 ## License
 This project is open-source and available under the MIT License.
